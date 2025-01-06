@@ -1,6 +1,6 @@
-# CMD Online Store
+# CMD Store
 
-The `main.c` file serves as the entry point for the **CMD Online Store** project. It manages the core functionalities of the command-line-based store, handling user inputs and system operations. This file coordinates:
+The `main.c` file serves as the entry point for the **CMD Store** project. It manages the core functionalities of the command-line-based store, handling user inputs and system operations. This file coordinates:
 
 - **User Interaction** through a command-line interface.
 - **Inventory Management** for tracking products and stock levels.
