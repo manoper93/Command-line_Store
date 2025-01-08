@@ -4,7 +4,7 @@ This project simulates a basic e-commerce system written in C, focusing on clien
 
 ---
 
-## **Project Objective**
+## 🌟 **Project Objective**
 The aim of this project is to provide:
 
 - A foundation for managing clients, articles, and shopping carts.
@@ -13,7 +13,7 @@ The aim of this project is to provide:
 
 ---
 
-## **Structure Overview**
+## 📂 **Structure Overview**
 The project consists of the following main components:
 
 ### **Classes**
