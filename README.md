@@ -1,4 +1,4 @@
-# CMD Store
+# 🔥 CMD Store
 
 This project simulates a basic e-commerce system written in C, focusing on client management, article management, and a shopping cart system. It includes various functions and classes to handle different aspects of the system.
 
